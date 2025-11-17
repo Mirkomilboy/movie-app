@@ -24,8 +24,8 @@ const API_OPTIONS = {
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Get Movie Info" },
+    { name: "description", content: "Find any movie you like" },
   ];
 }
 
